@@ -1,10 +1,13 @@
 ---------------------------------------------------
 ---------------------------------------------------
+
 Show-DscResource
 
 ---------------------------------------------------
 ---------------------------------------------------
-How to Install : 
+
+*How to Install* : 
+
 1. Copy ShowDscResourceModule directory onto location <path1>
 2. Open a Powershell ISE Window and run these commands :
     Import-Module <path1>/ShowDscResourceModule
